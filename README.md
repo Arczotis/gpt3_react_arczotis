@@ -1,4 +1,4 @@
-#My project of REACT.js
+# My project of REACT.js
 It's a webset that introducing the GPT3.
 In it I didn't use any css framwork like elementUI or Tailwind,
 Just  writing all of the CSS by my hand and get the color by using ANGRY TOOLS's Online Gradient Generator.
